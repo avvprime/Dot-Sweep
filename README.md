@@ -1,3 +1,5 @@
+![](https://github.com/avvprime/Dot-Sweep/blob/main/dotsweep-gameplay.gif)
+
 It's a 2D puzzle game made with Pixi. 
 Merge all the dots without exceeding the movement count.
 
