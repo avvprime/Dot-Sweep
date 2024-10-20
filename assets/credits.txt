@@ -1,0 +1,9 @@
+clock: <a href="https://www.flaticon.com/free-icons/clock" title="clock icons">Clock icons created by justicon - Flaticon</a>
+
+move: <a href="https://www.flaticon.com/free-icons/movement" title="movement icons">Movement icons created by Royyan Wijaya - Flaticon</a>
+
+pass-arrow: <a href="https://www.flaticon.com/free-icons/arrow" title="arrow icons">Arrow icons created by Freepik - Flaticon</a>
+
+wave: <a href="https://www.flaticon.com/free-icons/sound-wave" title="sound wave icons">Sound wave icons created by icon wind - Flaticon</a>
+
+zapsplat.com for sounds
